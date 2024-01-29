@@ -1,5 +1,4 @@
-# Project 1
-<h1> College Recruitment Improvement Study </h1> 
+# Project 1 - College Recruitment Improvement Study
 
 <b>Goal:</b> Using Python, perform an exploratory data analysis of the CCM Computing Courses Entry Surveys.  Provide insights that can help the Information Technologies department increase enrollment in computing classes.
 
