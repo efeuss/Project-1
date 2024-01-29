@@ -2,7 +2,7 @@
 
 <b>Goal:</b> Using Python, perform an exploratory data analysis of the CCM Computing Courses Entry Surveys.  Provide insights that can help the Information Technologies department increase enrollment in computing classes.
 
-<h2>Part 1: Data Study Questions</h2>
+## Part 1: Data Study Questions
 Formulate the data study questions that you will answer in your analysis.  You will also be assigned a few questions to answer by your instructor. 
 
 <h2>Part 2: Data Exploration and Cleaning</h2>
